@@ -32,4 +32,6 @@ programs of lab
 
 ##Q4_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/Q4_op.png
 
-##Q5_OUTPUT:
+##Q5_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/Q5_op.png
+
+##Q6_OUTPUT:
