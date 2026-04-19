@@ -52,4 +52,6 @@ programs of lab
 
 ##q4b_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/q4b_op.png
 
-##q4c_OUTPUT:
+##q4c_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/q4c_op.png
+
+##Q5a_OUTPUT:
