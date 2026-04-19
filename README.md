@@ -14,4 +14,6 @@ programs of lab
 
 ##LinkedListDisplayPos_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/LinkedListDisplayPos_output.png
 
-##LinkedListInserEnd_OUTPUT:
+##LinkedListInserEnd_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/LinkedListInsertEnd_output.png
+
+##LInkedListIterator_OUTPUT:
