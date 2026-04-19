@@ -42,4 +42,6 @@ programs of lab
 
 ##Q9_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/Q9_op.png
 
-##Q10_OUTPUT:
+##Q10_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/Q10_op.png
+
+##StringOperations_OUTPUT:
