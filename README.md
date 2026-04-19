@@ -10,4 +10,6 @@ programs of lab
 
 ##ArrayListSort_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/ArrayListSort_output.png
 
-##ArrayListSubList_OUTPUT:
+##ArrayListSubList_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/ArrayListSubList_output.png
+
+##LinkedListDisplayPos_OUTPUT:
