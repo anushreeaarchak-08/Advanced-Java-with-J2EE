@@ -48,4 +48,6 @@ programs of lab
 
 ##StringPerformance_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/StringPerformace_op.png
 
-##q4a_OUTPUT:
+##q4a_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/q4a_op.png
+
+##q4b_OUTPUT:
