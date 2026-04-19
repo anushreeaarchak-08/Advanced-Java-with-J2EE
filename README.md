@@ -24,4 +24,6 @@ programs of lab
 
 ##LinkedListSwap_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/LinkedListSwap_output.png
 
-##Q1_OUTPUT:
+##Q1_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/Q1_op.png
+
+##Q2_OUTPUT:
