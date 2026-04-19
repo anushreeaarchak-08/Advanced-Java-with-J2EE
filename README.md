@@ -4,4 +4,6 @@ programs of lab
 
 ##ArryListdeleteNth_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/ArrayListDeleteNth_output.png
 
-##ArrayListREmove_OUTPUT:
+##ArrayListREmove_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/ArrayListRemove_output.png
+
+##ArrayListSearch_OUTPUT:
