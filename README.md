@@ -6,4 +6,6 @@ programs of lab
 
 ##ArrayListREmove_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/ArrayListRemove_output.png
 
-##ArrayListSearch_OUTPUT:
+##ArrayListSearch_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/ArrayListSearch_output.png
+
+##ArrayListSort_OUTPUT:
