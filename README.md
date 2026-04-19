@@ -16,4 +16,6 @@ programs of lab
 
 ##LinkedListInserEnd_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/LinkedListInsertEnd_output.png
 
-##LInkedListIterator_OUTPUT:
+##LInkedListIterator_OUTPUT:https://github.com/anushreeaarchak-08/Advanced-Java-with-J2EE/blob/main/LinkedListIterator_output.png
+
+##LinkedListREverse_OUTPUT:
